@@ -123,8 +123,8 @@ Backend
 
 BigData
 
-- Crolling
-- DataSearching
+- Web Crawling
+- Machine Learning
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
